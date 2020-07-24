@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/cra-template-ajlende/static/js/main.f99179ea.chunk.js",
+    "main.js.map": "/cra-template-ajlende/static/js/main.f99179ea.chunk.js.map",
+    "runtime-main.js": "/cra-template-ajlende/static/js/runtime-main.b35d729e.js",
+    "runtime-main.js.map": "/cra-template-ajlende/static/js/runtime-main.b35d729e.js.map",
+    "static/js/2.4ce5d0ae.chunk.js": "/cra-template-ajlende/static/js/2.4ce5d0ae.chunk.js",
+    "static/js/2.4ce5d0ae.chunk.js.map": "/cra-template-ajlende/static/js/2.4ce5d0ae.chunk.js.map",
+    "index.html": "/cra-template-ajlende/index.html",
+    "precache-manifest.762c9adbc32154f1c2805648f8784632.js": "/cra-template-ajlende/precache-manifest.762c9adbc32154f1c2805648f8784632.js",
+    "service-worker.js": "/cra-template-ajlende/service-worker.js",
+    "static/js/2.4ce5d0ae.chunk.js.LICENSE.txt": "/cra-template-ajlende/static/js/2.4ce5d0ae.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b35d729e.js",
+    "static/js/2.4ce5d0ae.chunk.js",
+    "static/js/main.f99179ea.chunk.js"
+  ]
+}
