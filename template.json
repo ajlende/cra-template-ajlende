@@ -1,6 +1,9 @@
 {
   "package": {
+    "homepage": "http://{todo-github-name-here}.github.io/{todo-repo-name-here}",
     "scripts": {
+      "predeploy": "npm run build",
+      "deploy": "gh-pages -d build",
       "lint": "eslint '*/**/*.{js,ts,tsx}'",
       "format": "eslint --fix '*/**/*.{js,ts,tsx}' && prettier --write ."
     },
@@ -16,6 +19,7 @@
       "@types/react-dom": "^16.9.0",
       "emotion-theming": "^10.0.27",
       "eslint-config-prettier": "^6.11.0",
+      "gh-pages": "^3.1.0",
       "husky": "^4.2.5",
       "lint-staged": "^10.2.11",
       "prettier": "2.0.5",
